@@ -1,2 +1,2 @@
 # wordpress
-Wrdpress / Divi testing
+Wordpress / Divi testing
